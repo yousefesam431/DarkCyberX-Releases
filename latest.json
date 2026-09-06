@@ -1,11 +1,11 @@
 {
-  "version": "1.3.2",
-  "tag": "v1.3.2",
-  "title": "Dark Cyber X — Router Chef v1.3.2",
+  "version": "1.3.3",
+  "tag": "v1.3.3",
+  "title": "Dark Cyber X — Router Chef v1.3.3",
   "url": "https://github.com/yousefesam431/DarkCyberX-Releases/releases/latest/download/DarkCyberX.RouterChef.exe",
   "asset_name": "DarkCyberX.RouterChef.exe",
   "asset_size": 73541751,
-  "published_at": "2026-09-06T02:13:00Z",
-  "notes": "إصدار v1.3.2: حل كراش التحديثات بالدفاع في العمق، وكسر حلقة إعادة التحميل لراوترات Zyxel، والتحديث الإجباري التلقائي المستقل من الموقع الرسمي.",
+  "published_at": "2026-09-06T00:15:36Z",
+  "notes": "إصدار v1.3.3: تحديث الأمان والتوافق الشامل لراوترات الشبكة المحلية، والتحديث الإجباري السلس عبر الموقع الرسمي.",
   "is_mandatory": true
 }
